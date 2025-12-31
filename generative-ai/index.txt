@@ -1,21 +1,21 @@
 1:"$Sreact.fragment"
-2:I[83719,["161","static/chunks/161-2e25815dd9dae35d.js","874","static/chunks/874-baee67bf477269a2.js","560","static/chunks/560-66416f2db4304c6c.js","177","static/chunks/app/layout-a2ab82e2d03c9cf4.js"],"ThemeProvider"]
-3:I[768,["161","static/chunks/161-2e25815dd9dae35d.js","874","static/chunks/874-baee67bf477269a2.js","560","static/chunks/560-66416f2db4304c6c.js","177","static/chunks/app/layout-a2ab82e2d03c9cf4.js"],"default"]
-4:I[87555,[],""]
-5:I[31295,[],""]
-6:I[52548,["161","static/chunks/161-2e25815dd9dae35d.js","874","static/chunks/874-baee67bf477269a2.js","560","static/chunks/560-66416f2db4304c6c.js","177","static/chunks/app/layout-a2ab82e2d03c9cf4.js"],"default"]
-8:I[59665,[],"MetadataBoundary"]
-a:I[59665,[],"OutletBoundary"]
-d:I[74911,[],"AsyncMetadataOutlet"]
-f:I[59665,[],"ViewportBoundary"]
-11:I[26614,[],""]
-:HL["/_next/static/css/53976d76e368c2fe.css","style"]
-0:{"P":null,"b":"A1-8w_s82XI1nn36WX7wA","p":"","c":["","generative-ai",""],"i":false,"f":[[["",{"children":[["slug","generative-ai","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/53976d76e368c2fe.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://google-fonts.jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://google-fonts.jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"style","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","id":"gfonts-css","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap","media":"print"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function(){\n                var l = document.getElementById('gfonts-css');\n                if (!l) return;\n                if (l.media !== 'all') {\n                  l.addEventListener('load', function(){ try { l.media = 'all'; } catch(e){} });\n                }\n              })();\n            "}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Resume","type":"page","target":"cv","href":"/cv"},{"title":"Generative AI","type":"page","target":"generative-ai","href":"/generative-ai"},{"title":"Certifications","type":"page","target":"awards","href":"/awards"},{"title":"Leadership","type":"page","target":"services","href":"/services"}],"siteTitle":"Charan Panchagnula","enableOnePageMode":false}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}]]}],{"children":[["slug","generative-ai","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","uZCUxRAXoF1ndj6z2KEBB",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+2:I[3719,["161","static/chunks/161-c92285856b08f5b4.js","874","static/chunks/874-6cc630662f3664af.js","560","static/chunks/560-83a075b4e219aa9a.js","177","static/chunks/app/layout-0ca517b9ed56e193.js"],"ThemeProvider"]
+3:I[768,["161","static/chunks/161-c92285856b08f5b4.js","874","static/chunks/874-6cc630662f3664af.js","560","static/chunks/560-83a075b4e219aa9a.js","177","static/chunks/app/layout-0ca517b9ed56e193.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[2548,["161","static/chunks/161-c92285856b08f5b4.js","874","static/chunks/874-6cc630662f3664af.js","560","static/chunks/560-83a075b4e219aa9a.js","177","static/chunks/app/layout-0ca517b9ed56e193.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/f89882d3ac68022f.css","style"]
+0:{"P":null,"b":"hnWLAGWmmtHTVIZxKPyEZ","p":"","c":["","generative-ai",""],"i":false,"f":[[["",{"children":[["slug","generative-ai","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f89882d3ac68022f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://google-fonts.jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://google-fonts.jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"style","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","id":"gfonts-css","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Resume","type":"page","target":"cv","href":"/cv"},{"title":"Generative AI","type":"page","target":"generative-ai","href":"/generative-ai"},{"title":"Certifications","type":"page","target":"awards","href":"/awards"},{"title":"Leadership","type":"page","target":"services","href":"/services"}],"siteTitle":"Charan Panchagnula","enableOnePageMode":false}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}]]}],{"children":[["slug","generative-ai","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","B-EPEb_fBEQtRb3ZEgd1D",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
 12:"$Sreact.suspense"
-13:I[74911,[],"AsyncMetadata"]
-15:I[4059,["161","static/chunks/161-2e25815dd9dae35d.js","12","static/chunks/12-a2962251c8ed6699.js","748","static/chunks/748-a5f271683b9f95c3.js","182","static/chunks/app/%5Bslug%5D/page-e9b965a5145cb57f.js"],"default"]
+13:I[4911,[],"AsyncMetadata"]
+15:I[4059,["161","static/chunks/161-c92285856b08f5b4.js","12","static/chunks/12-5cba72cac0269eee.js","748","static/chunks/748-745480556ff20bf4.js","182","static/chunks/app/%5Bslug%5D/page-cc9d29ffaa7c59ec.js"],"default"]
 9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
-16:Tac6,## AI Technical Expertise
+16:T1553,## AI Technical Expertise
 
 **Core AI/ML Technologies:**
 - **AWS AI/ML Services:** SageMaker, Bedrock, Bedrock AgentCore
@@ -26,24 +26,84 @@ f:I[59665,[],"ViewportBoundary"]
 
 **Production AI Focus:** Building scalable, production-ready AI solutions that integrate with existing enterprise systems and drive measurable business value.
 
-## Production AI Systems & Agentic Solutions
+---
 
-**Agentic Remediation Intelligence System:** Extended Goldman Sachs' security scanner ecosystem with AI integration using LLMs and vector databases. Implemented reflection patterns and tool use capabilities with semantic search on S3 vectors to generate real-time, context-aware remediation guidance, reducing developer time for vulnerability fixes.
+# Featured Projects
 
-**MCP Server Integration & Internal Team Assistant:** Built internal team assistant using Agno framework, FAISS vector database, and tool calls with Streamlit interface to centralize documentation and runbooks for engineering solutions maintenance and production alert troubleshooting. Integrated MCP servers with GitHub Copilot to provide developers with instant scanner-related details and contextual assistance directly in their IDE, significantly improving development efficiency and knowledge sharing across the enterprise.
+## Security Remediation Intelligence System
+*Prototype | Multi-Agent AI Platform*
+
+An **agentic AI platform** that automatically identifies and fixes security vulnerabilities. Unlike traditional scanners that generate noise, this system uses a multi-agent architecture to analyze findings, generate context-aware code patches, and validate them for safety and correctness.
+
+![Security Remediation System Architecture](/security-remediation-arch.png)
+
+### Key Capabilities
+
+- **Reflection Pattern (Generator-Evaluator):** Implements an agentic workflow design pattern where the Generator Agent produces fixes and the Evaluator Agent validates them in a feedback loop
+- **Multi-Scanner Aggregation:** Unified view for SAST (Semgrep), IaC (Checkov), and SCA (Trivy)
+- **S3 Vectors for RAG:** Uses AWS S3-based vector storage for semantic search on historical remediations
+- **Infrastructure as Code:** Includes Terraform code for deployment to AWS App Runner
+- **False Positive Detection:** Automated triage with confidence scoring
+
+**Technologies:** Python, FastAPI, Next.js, Agno, LangChain, RAG, AWS (App Runner, SQS, S3, DynamoDB), Terraform
+
+[View on GitHub →](https://github.com/charanpanchagnula/security-remediation-system)
+
+---
+
+## MCP Scanner Benchmark & Evaluation System
+
+A comprehensive framework for **benchmarking and evaluating security scanners** for the Model Context Protocol (MCP). Uses an Agentic AI approach to analyze scan results, score tools based on performance, and maintain a holistic leaderboard.
+
+![MCP Scanner Benchmark Architecture](/mcp-scanner-arch.png)
+
+### Key Features
+
+- **Multi-Scanner Orchestration:** Runs multiple open-source MCP security scanners in parallel
+- **AI-Driven Evaluation:** Uses DeepSeek (via Agno) to review findings, assign percentage scores, and determine confidence levels
+- **Holistic Leaderboard:** Tracks long-term scanner performance using a moving average system
+- **Dual-Mode Analysis:** Supports both Static Analysis and Dynamic Fuzzing
+
+**Technologies:** Python, FastAPI, Next.js, Agno, DeepSeek, Docker, MCP Protocol
+
+[View on GitHub →](https://github.com/charanpanchagnula/mcp-scanner-benchmark)
+
+---
+
+# Production AI at Goldman Sachs
+
+## Internal Security Operations Chatbot
+
+Built an **internal team chatbot** using the Agno framework to streamline security operations and improve engineering productivity:
+
+### Tool-Based Scanner Operations
+- **DynamoDB Integration:** Tool calls to query scanner execution data, track failures, identify stuck jobs, and enable one-click resubmission of security scans
+- **Application Health Monitoring:** Automated health check tool calls across all running applications to assess hygiene, uptime, and operational status
+
+### Knowledge & Documentation (RAG)
+- **FAISS Vector Database:** Indexed all official scanner documentation within the firm, enabling natural language queries about rule sets, scanner behavior, and configuration options
+- **Semantic Search:** Engineers can ask detailed questions about scanner internals and receive contextually relevant documentation excerpts
+
+### Remediation Guidance (Beta)
+- **Vulnerability Fix Assistant:** Prototype that ingests firm-level vulnerability remediation templates and guides developers on getting started with security fixes based on vulnerability details provided in prompts
+- **Future MCP Integration:** Designed for conversion to an MCP server for GitHub Copilot integration, enabling in-IDE remediation guidance
+
+---
 
 # Certifications & Learning
 
 ## Completed Certifications
 
-**Generative AI Certification** – Educosys (2025): 7-week comprehensive certification covering the complete spectrum of Generative AI. Started with mathematical foundations, neural networks, and deep learning basics. Advanced through GANs, VAEs, Transformers, and Large Language Models. Mastered fine-tuning techniques with LoRA/QLoRA, LangChain, LangGraph, and vector databases. Built 10+ hands-on projects including ChatGPT-like chatbot, image generation apps, sentiment analysis, and RAG pipelines. Explored cutting-edge topics like Model Context Protocol, Ollama, and multimodal models.
+**Generative AI Certification** from Educosys (2025): 7-week comprehensive certification covering the complete spectrum of Generative AI. Started with mathematical foundations, neural networks, and deep learning basics. Advanced through GANs, VAEs, Transformers, and Large Language Models. Mastered fine-tuning techniques with LoRA/QLoRA, LangChain, LangGraph, and vector databases. Built 10+ hands-on projects including LLM-powered chatbot, image generation apps, sentiment analysis, and RAG pipelines. Explored cutting-edge topics like Model Context Protocol, Ollama, and multimodal models.
 
-**Generative and Agentic AI in Production** – Udemy (2025): Comprehensive course on deploying generative AI and agentic systems in production environments. Covered advanced MLOps practices, scalable AI deployment strategies, and building robust agentic workflows. Mastered production-grade AI application development with focus on reliability, monitoring, and performance optimization.
+**Agentic AI Engineering** from Ed Donner (2025): Completed the Agentic AI course covering advanced agent architectures, multi-agent systems, and production deployment patterns. Mastered building autonomous AI agents with tool use, reflection patterns, and orchestration frameworks.
+
+**MLOps & AI in Production** from Ed Donner (2025): Completed comprehensive MLOps course covering production deployment strategies, monitoring, scaling, and maintaining AI systems in enterprise environments.
 
 ## Ongoing Learning & Development
 
 - [AWS Generative AI Developer Professional](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/)
-- [The Complete Agentic AI Engineering Course](https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/)
+- [Core LLM Engineer Track](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models) from Ed Donner (In Progress)
 7:["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[false,["$","$L15",null,{"config":{"type":"text","title":"Generative AI","source":"generative-ai.md"},"content":"$16"}],false]}]
 c:null
 10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]

@@ -1,25 +1,25 @@
 1:"$Sreact.fragment"
-2:I[83719,["161","static/chunks/161-2e25815dd9dae35d.js","874","static/chunks/874-baee67bf477269a2.js","560","static/chunks/560-66416f2db4304c6c.js","177","static/chunks/app/layout-a2ab82e2d03c9cf4.js"],"ThemeProvider"]
-3:I[768,["161","static/chunks/161-2e25815dd9dae35d.js","874","static/chunks/874-baee67bf477269a2.js","560","static/chunks/560-66416f2db4304c6c.js","177","static/chunks/app/layout-a2ab82e2d03c9cf4.js"],"default"]
-4:I[87555,[],""]
-5:I[31295,[],""]
-6:I[52548,["161","static/chunks/161-2e25815dd9dae35d.js","874","static/chunks/874-baee67bf477269a2.js","560","static/chunks/560-66416f2db4304c6c.js","177","static/chunks/app/layout-a2ab82e2d03c9cf4.js"],"default"]
-7:I[33583,["33","static/chunks/2f0b94e8-26f0502a52757a97.js","930","static/chunks/164f4fb6-a436429da3403cc1.js","161","static/chunks/161-2e25815dd9dae35d.js","12","static/chunks/12-a2962251c8ed6699.js","874","static/chunks/874-baee67bf477269a2.js","9","static/chunks/9-e9f77b627a77c214.js","748","static/chunks/748-a5f271683b9f95c3.js","974","static/chunks/app/page-a584004f2b8a3168.js"],"default"]
-8:I[15504,["33","static/chunks/2f0b94e8-26f0502a52757a97.js","930","static/chunks/164f4fb6-a436429da3403cc1.js","161","static/chunks/161-2e25815dd9dae35d.js","12","static/chunks/12-a2962251c8ed6699.js","874","static/chunks/874-baee67bf477269a2.js","9","static/chunks/9-e9f77b627a77c214.js","748","static/chunks/748-a5f271683b9f95c3.js","974","static/chunks/app/page-a584004f2b8a3168.js"],"default"]
-b:I[59665,[],"MetadataBoundary"]
-d:I[59665,[],"OutletBoundary"]
-10:I[74911,[],"AsyncMetadataOutlet"]
-12:I[59665,[],"ViewportBoundary"]
-14:I[26614,[],""]
-:HL["/_next/static/css/53976d76e368c2fe.css","style"]
-9:T717,Strategic technology leader and visionary architect at Goldman Sachs, serving as **Vice President/Senior Engineering Manager** overseeing a geographically distributed team of over 20 engineers across the USA, Warsaw, and multiple locations in India. **AI Architect** combining executive leadership with deep technical expertise to drive innovation in enterprise-scale platforms and emerging AI technologies. Currently leading enterprise AI initiatives including agentic remediation intelligence systems and MCP server integrations that enhance developer productivity and security operations.
+2:I[3719,["161","static/chunks/161-c92285856b08f5b4.js","874","static/chunks/874-6cc630662f3664af.js","560","static/chunks/560-83a075b4e219aa9a.js","177","static/chunks/app/layout-0ca517b9ed56e193.js"],"ThemeProvider"]
+3:I[768,["161","static/chunks/161-c92285856b08f5b4.js","874","static/chunks/874-6cc630662f3664af.js","560","static/chunks/560-83a075b4e219aa9a.js","177","static/chunks/app/layout-0ca517b9ed56e193.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[2548,["161","static/chunks/161-c92285856b08f5b4.js","874","static/chunks/874-6cc630662f3664af.js","560","static/chunks/560-83a075b4e219aa9a.js","177","static/chunks/app/layout-0ca517b9ed56e193.js"],"default"]
+7:I[7437,["161","static/chunks/161-c92285856b08f5b4.js","12","static/chunks/12-5cba72cac0269eee.js","874","static/chunks/874-6cc630662f3664af.js","748","static/chunks/748-745480556ff20bf4.js","974","static/chunks/app/page-1c984b2d473253a6.js"],"default"]
+8:I[9893,["161","static/chunks/161-c92285856b08f5b4.js","12","static/chunks/12-5cba72cac0269eee.js","874","static/chunks/874-6cc630662f3664af.js","748","static/chunks/748-745480556ff20bf4.js","974","static/chunks/app/page-1c984b2d473253a6.js"],"default"]
+b:I[9665,[],"MetadataBoundary"]
+d:I[9665,[],"OutletBoundary"]
+10:I[4911,[],"AsyncMetadataOutlet"]
+12:I[9665,[],"ViewportBoundary"]
+14:I[6614,[],""]
+:HL["/_next/static/css/f89882d3ac68022f.css","style"]
+9:T619,Strategic technology leader and visionary architect at Goldman Sachs, serving as **Vice President/Senior Engineering Manager**. Scaled engineering team from 6 to 23 engineers (2024-2025) across the USA, Warsaw, and multiple India locations. **AI Architect** combining executive leadership with deep technical expertise to drive innovation in enterprise-scale platforms and emerging AI technologies.
 
-Leading high-scale AWS-based engineering solutions processing over 1 million requests per week, deployed across multi-region environments for maximum reliability and scalability. Architecting with core AWS services including ECS Fargate, SQS, S3, DynamoDB, OpenSearch, and SNS, implementing robust failover mechanisms and automated scaling to meet stringent functional and non-functional requirements. ***AWS Certified Solutions Architect – Professional*** with demonstrated expertise in cloud-native architectures.
+Leading high-scale AWS-based engineering solutions processing over **1 million requests per week** with **99.9% effectiveness SLOs** tracked through rigorous SLI/SLO-based monitoring. Own 20+ production applications including security scanners that feed gating solutions for production pipeline decisions, requiring strict time budget adherence through auto-scaling, concurrency optimization, and performance tuning. ***AWS Certified Solutions Architect, Professional*** with demonstrated expertise in cloud-native architectures.
 
-Managing a portfolio of over 20 production applications that deliver critical business value, including security scanning solutions that surface vulnerabilities to drive remediation across the firm. Expert in customizing vendor-based, in-house, and open-source tools to meet Goldman Sachs' rigorous requirements while maintaining strict performance standards.
+Extensive experience in **Spring Boot, Eureka, Hazelcast, Redis, Kafka, RabbitMQ, Kubernetes**, and distributed systems. Architecting with core AWS services including ECS Fargate, SQS, S3, DynamoDB, OpenSearch, and SNS, implementing robust failover mechanisms and automated scaling to meet stringent functional and non-functional requirements.
 
-Extensive experience in Spring stack (Spring Boot, Eureka, Hazelcast), Kafka, RabbitMQ, Kubernetes, and distributed systems. A graduate of the Stanford Engineering Leadership Program 2025, demonstrating proven ability to create demonstrable business value through technical leadership of mission-critical platforms serving millions of users.
-a:T152a,## Technical Skills
+Currently leading enterprise AI initiatives including agentic remediation intelligence systems, internal team chatbots with tool calls and vector search, and MCP server integrations with GitHub Copilot. Pursuing the **Stanford Engineering Leadership Program** (3/5 courses completed).
+a:T1416,## Technical Skills
 
 **Languages:**
 Java, Python, Shell Scripting
@@ -51,62 +51,77 @@ JUnit, Mockito
 ## Professional Experience
 
 **Vice President/Senior Engineering Manager**
-Goldman Sachs – Dallas, Texas
-*07/2020 – Present*
-- Lead a geographically distributed team of 20+ engineers across USA, Warsaw, and multiple India locations, delivering high-scale, high-availability platforms that support critical business operations
-- Drive end-to-end architecture, delivery, and leadership for event-driven microservices processing over 1M+ requests per week with stringent performance and reliability requirements
-- Architected enterprise AI solutions including agentic remediation intelligence systems using LLMs and vector databases for real-time security guidance, and MCP server integrations with GitHub Copilot for developer productivity
-- Manage a portfolio of over 20 production applications delivering critical business value, including security scanning solutions that surface vulnerabilities to drive remediation across the firm
-- Designed and built distributed systems leveraging Spring Boot, Eureka, Hazelcast, Kafka, RabbitMQ, Kubernetes, and AWS (ECS Fargate, SQS, SNS, Kinesis, DynamoDB, OpenSearch, S3)
-- Architected multi-region AWS deployments with automated failover, scaling, and high availability to support enterprise-wide operations with multi-AZ resiliency
-- Spearheaded enterprise-wide migration from on-prem to AWS cloud, rearchitecting legacy solutions into scalable, cloud-native services with robust failover mechanisms
-- Manage complex hybrid cloud environments (AWS primary with on-prem integration), ensuring interoperability and operational excellence for mission-critical platforms
-- Implemented full CI/CD workflows using Gitlab, Terraform, and GitOps practices for consistent, reliable delivery across globally distributed teams
-- Mentored senior engineers and tech leads across regions, influencing cross-functional roadmaps and system designs for enterprise-scale platforms
-- Recognized as a go-to AWS architecture expert, consulted across departments for infrastructure modernization, scalability, and fault-tolerant solutions
+Goldman Sachs, Dallas, Texas
+*07/2020 to Present*
 
-**Senior Software Engineer**  
-Cerner Corporation – Kansas City, Missouri  
-*06/2013 – Present*
-- Lead high-caliber software design, development, and release for core products and services within $5B+ healthcare solution provider
-- Partner with Architecture, Development, Platform, and DevOps teams to continuously improve web services using JAX RS and Ruby DSLs
-- Conduct best-practice product testing and assist with resolution of escalated client issues
-- Perform peer code reviews to ensure top software product quality
-- Consult on new projects, including support for project scoping and estimation
-- Partnered with Application Services to enhance Cerner HealtheIntent platform, developing RESTFul microservices for application consumer and public APIs
-- Deployed services using Continuous Integration and Continuous Delivery, making public APIs highly available and resilient across multiple regions
-- Developed maintainable and scalable Web services utilizing Ruby on Rails and Ruby DSLs such as Grape, as well as RestEasy and JAXRS for java web services
-- Utilizing distributed caching with Redis, improved customer response times by 90% and made database 99.9% resilient to downtimes
-- Worked on creating an AWS lambda behind a proxy API gateway REST service and leveraged AWS services like CloudFormation, S3 and Amazon CloudWatch
-- Developed HTTP service clients In Java and Ruby that contain middlewares for authentication, correlation identifiers and retries
-- Leveraged concepts like Circuit Breaker, Exponential Backoff and Jitter
-- Developed Java 8 (With Maven, Oracle SQL, Hibernate) and C++ based backend services for desktop applications
-- Instrumental in enhancing all application service docker containers to use Google Distroless images to reduce memory footprint and security attack surface
-- Active, energized team mentor, training junior engineers on processes, technologies, and the engineering culture
+**Team & Organizational Growth:**
+- Scaled engineering team from 6 to 23 engineers (2024-2025), building a geographically distributed workforce across USA, Warsaw, and multiple India locations
+
+**Platform & Reliability:**
+- Own a portfolio of 20+ production applications including enterprise security scanners with 99.9% effectiveness SLOs, tracked through rigorous SLI/SLO-based monitoring and governance
+- Drive end-to-end architecture and delivery for event-driven microservices processing 1M+ requests per week with stringent performance and reliability requirements
+- Scanner results feed into gating solutions that determine production pipeline blocking decisions, requiring strict time budget adherence
+
+**Performance Optimization:**
+- Implemented auto-scaling, concurrency optimization, and ECS instance rightsizing to meet scanner time budget requirements
+- Delivered performance optimizations including S3 multi-part upload, SNS-to-SQS filtering, S3 Transfer Acceleration, DynamoDB with TTL and secondary indexes, and OpenSearch cluster tuning
+
+**Cost Optimization:**
+- Reduced AWS infrastructure costs through S3 lifecycle rules (intelligent tiering, cold archives), S3 purge policies, DynamoDB TTL, dynamic auto-scaling with step scaling, ECS instance store usage, and AWS Compute Optimizer insights
+- Established cost monitoring using AWS Cost Explorer and CloudWatch to track and optimize spend
+
+**Architecture & Cloud:**
+- Architected multi-region AWS deployments with automated failover, scaling, and high availability with multi-AZ resiliency
+- Spearheaded enterprise-wide migration from on-prem to AWS cloud, rearchitecting legacy solutions into scalable, cloud-native services
+- Designed distributed systems leveraging Spring Boot, Eureka, Hazelcast, Kafka, RabbitMQ, Kubernetes, and AWS (ECS Fargate, SQS, SNS, Kinesis, DynamoDB, OpenSearch, S3)
+
+**AI & Innovation:**
+- Architected enterprise AI solutions including agentic remediation intelligence systems using LLMs and vector databases for real-time security guidance
+- Built internal team chatbot with tool calls for scanner operations, FAISS vector search for documentation, and MCP server integrations with GitHub Copilot
+
+**Leadership:**
+- Mentored senior engineers and tech leads across regions, influencing cross-functional roadmaps and system designs
+- Recognized as go-to AWS architecture expert, consulted across departments for infrastructure modernization and scalability
+
+---
+
+**Senior Software Engineer**
+Oracle Cerner, Kansas City, Missouri
+*06/2013 to 07/2020*
+
+- Led software design, development, and release for core products within $5B+ healthcare solution provider
+- Partnered with Architecture, Development, Platform, and DevOps teams to enhance web services using JAX RS and Ruby DSLs
+- Enhanced Cerner HealtheIntent platform, developing RESTful microservices for application consumer and public APIs
+- Deployed services using CI/CD pipelines, making public APIs highly available and resilient across multiple regions
+- Improved customer response times by 90% using distributed caching with Redis, achieving 99.9% database resilience
+- Developed HTTP service clients with middlewares for authentication, correlation identifiers, and retries using Circuit Breaker, Exponential Backoff, and Jitter patterns
+- Developed Java 8 (Maven, Oracle SQL, Hibernate) and C++ based backend services for desktop applications
+- Reduced memory footprint and security attack surface by migrating containers to Google Distroless images
+- Mentored junior engineers on processes, technologies, and engineering culture
 
 ## Education
 
-**Master of Science in Computer Science**  
-Indiana University Bloomington, Bloomington, Indiana  
+**Master of Science in Computer Science**
+Indiana University Bloomington, Bloomington, Indiana
 *2013*
 
-**Bachelor of Engineering in Electronics & Communication Engineering**  
-Sri Venkateswara College of Engineering, Tamil Nadu, India  
+**Bachelor of Engineering in Electronics & Communication Engineering**
+Sri Venkateswara College of Engineering, Tamil Nadu, India
 *2011*
 
 ## Certifications & Programs
 
-- **AWS Certified Solutions Architect – Professional**
-- **AWS Certified Solutions Architect – Associate**
-- **Stanford Engineering Leadership Program** – Completed 2025
-- **Generative AI Certification** – Educosys (7-week comprehensive program covering complete AI spectrum)
+- **AWS Certified Solutions Architect, Professional**
+- **AWS Certified Solutions Architect, Associate**
+- **Stanford Engineering Leadership Program** (In Progress, 3/5 courses completed)
+- **Generative AI Certification** from Educosys (7-week comprehensive program covering complete AI spectrum)
 
 ## Language Skills
 
 English, Tamil, Telugu, Hindi | Visa Status: H-1B Visa
-0:{"P":null,"b":"A1-8w_s82XI1nn36WX7wA","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/53976d76e368c2fe.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://google-fonts.jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://google-fonts.jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"style","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","id":"gfonts-css","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap","media":"print"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function(){\n                var l = document.getElementById('gfonts-css');\n                if (!l) return;\n                if (l.media !== 'all') {\n                  l.addEventListener('load', function(){ try { l.media = 'all'; } catch(e){} });\n                }\n              })();\n            "}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Resume","type":"page","target":"cv","href":"/cv"},{"title":"Generative AI","type":"page","target":"generative-ai","href":"/generative-ai"},{"title":"Certifications","type":"page","target":"awards","href":"/awards"},{"title":"Leadership","type":"page","target":"services","href":"/services"}],"siteTitle":"Charan Panchagnula","enableOnePageMode":false}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 min-h-screen","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16","children":[["$","div",null,{"className":"lg:col-span-1","children":["$","$L7",null,{"author":{"name":"Charan Panchagnula","title":"Vice President/Senior Engineering Manager","institution":"Goldman Sachs","avatar":"/bio.jpg"},"social":{"email":"charanftp3@gmail.com","location":"Prosper, Texas","location_url":"https://maps.google.com","location_details":["Prosper, Texas 75078"],"google_scholar":"","orcid":"","github":"","linkedin":"https://www.linkedin.com/in/charanpanchagnula/"},"features":{"enable_likes":false,"enable_one_page_mode":false},"researchInterests":["AI Architecture & Generative AI","AWS Certified Solutions Architect – Professional","Distributed Systems Leadership","Cloud-Native Platform Architecture","High-Scale Application Management"]}]}],["$","div",null,{"className":"lg:col-span-2 space-y-10","children":[["$","section","about",{"id":"about","className":"scroll-mt-28 space-y-8","children":[[["$","$L8","about",{"content":"$9","title":"About","showDownloadButton":true,"authorName":"Charan Panchagnula","authorTitle":"Vice President/Senior Engineering Manager","authorEmail":"charanftp3@gmail.com","cvContent":"$a"}]],false,false,false]}]]}]]}]}],["$","$Lb",null,{"children":"$Lc"}],null,["$","$Ld",null,{"children":["$Le","$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","31rs80kX71uVAKunrNz-E",{"children":[["$","$L12",null,{"children":"$L13"}],null]}],null]}],false]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"hnWLAGWmmtHTVIZxKPyEZ","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f89882d3ac68022f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://google-fonts.jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://google-fonts.jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"style","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","id":"gfonts-css","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Resume","type":"page","target":"cv","href":"/cv"},{"title":"Generative AI","type":"page","target":"generative-ai","href":"/generative-ai"},{"title":"Certifications","type":"page","target":"awards","href":"/awards"},{"title":"Leadership","type":"page","target":"services","href":"/services"}],"siteTitle":"Charan Panchagnula","enableOnePageMode":false}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 min-h-screen","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16","children":[["$","div",null,{"className":"lg:col-span-1","children":["$","$L7",null,{"author":{"name":"Charan Panchagnula","title":"Vice President/Senior Engineering Manager","institution":"Goldman Sachs","avatar":"/bio.jpg"},"social":{"email":"charanftp3@gmail.com","location":"Prosper, Texas","location_url":"https://maps.google.com","location_details":["Prosper, Texas 75078"],"google_scholar":"","orcid":"","github":"https://github.com/charanpanchagnula","linkedin":"https://www.linkedin.com/in/charanpanchagnula/"},"features":{"enable_likes":false,"enable_one_page_mode":false},"researchInterests":["AWS Certified Solutions Architect, Professional","Agentic AI Architecture","Distributed Systems Leadership","Cloud-Native Platform Architecture","High-Scale Application Management"]}]}],["$","div",null,{"className":"lg:col-span-2 space-y-10","children":[["$","section","about",{"id":"about","className":"scroll-mt-28 space-y-8","children":[[["$","$L8","about",{"content":"$9","title":"About","showDownloadButton":true,"authorName":"Charan Panchagnula","authorTitle":"Vice President/Senior Engineering Manager","authorEmail":"charanftp3@gmail.com","cvContent":"$a"}]],false,false,false]}]]}]]}]}],["$","$Lb",null,{"children":"$Lc"}],null,["$","$Ld",null,{"children":["$Le","$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","sohWZralmFgcw_Uc4PDjI",{"children":[["$","$L12",null,{"children":"$L13"}],null]}],null]}],false]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
 15:"$Sreact.suspense"
-16:I[74911,[],"AsyncMetadata"]
+16:I[4911,[],"AsyncMetadata"]
 c:["$","$15",null,{"fallback":null,"children":["$","$L16",null,{"promise":"$@17"}]}]
 f:null
 13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
